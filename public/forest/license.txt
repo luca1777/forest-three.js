@@ -1,0 +1,8 @@
+Model Information:
+* title:	Digital forest
+* source:	https://sketchfab.com/3d-models/digital-forest-7b8d1df923c4482baf958759b9d4f5b4
+* author:	FDU_oficial (https://sketchfab.com/FDU_oficial)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
