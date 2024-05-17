@@ -8,7 +8,7 @@ import * as THREE from 'three';
 function CameraAnimation({ hasAnimated, setHasAnimated, targetPosition, setTargetPosition }) {
   useFrame(({ camera }) => {
     if (!hasAnimated && camera.position.y > 4) {
-      camera.position.y -= 1; // Adjust the speed here
+      camera.position.y -= 0.3; // Adjust the speed here
       camera.lookAt(0, 0, 0);
     } else if (!hasAnimated) {
       setHasAnimated(true); // Mark animation as done
