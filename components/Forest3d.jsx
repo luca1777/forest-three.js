@@ -175,7 +175,7 @@ export default function Forest3d() {
           Projects
         </Text>
         <CameraAnimation hasAnimated={hasAnimated} setHasAnimated={setHasAnimated} targetPosition={targetRotation} setTargetPosition={setTargetRotation} />
-        <OrbitControls />
+        <OrbitControls lock/>
       </Canvas>
       <ContactButton handleContactClick={handleContactClick} />
       <AboutUsButton handleAboutUsClick={handleAboutUsClick} />
